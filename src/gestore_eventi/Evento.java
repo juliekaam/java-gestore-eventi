@@ -20,6 +20,8 @@ private int posti_prenotati;
 
         this.posti_prenotati = 0;
     }
+
+
     //GETTER E SETTER
     //titolo sia in lettura e in scrittura
 
