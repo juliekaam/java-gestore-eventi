@@ -95,6 +95,11 @@ throw new RuntimeException();
 
     @Override
     public String toString() {
-        return super.toString();
+        return "Evento{" +
+                "titolo='" + titolo + '\'' +
+                ", data=" + data +
+                ", posti_totali=" + posti_totali +
+                ", posti_prenotati=" + posti_prenotati +
+                '}';
     }
 }
